@@ -1,4 +1,4 @@
-# Selenium Java Tutorial Series
+# Selenium Java Series
 
 This repository contains a series of tutorials focused on using Selenium with Java for web automation. Each tutorial builds on the previous one, allowing you to gradually enhance your skills in automation testing.
 
